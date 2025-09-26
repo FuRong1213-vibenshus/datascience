@@ -16,6 +16,7 @@ I forløbet introduceres og anvendes følgende:
 
 - `NumPy`: arrays, vektoriserede beregninger, statistiske funktioner.
 - `Matplotlib`: grafer, scatterplots, histogrammer, labels og figuropsætning.
+- `seaborn` 
 - `pandas`: DataFrames, import/eksport af data (CSV), filtrering, gruppering, beskrivende statistik.
 - `SciPy`: (valgfrit/ekstra): fx regression, sandsynlighedsfordelinger.
 
@@ -28,10 +29,11 @@ I forløbet introduceres og anvendes følgende:
 - [computation_on_array_2.ipynb](computation_on_array_2.ipynb)
 
 ### Matplotlib
-    tutorials (https://matplotlib.org/stable/users/explain/quick_start.html#quick-start)
-
+- [Matplitlib tutorials](https://matplotlib.org/stable/users/explain/quick_start.html#quick-start)
+- [pyplot](https://matplotlib.org/stable/tutorials/pyplot.html)
+- [seaborn](https://seaborn.pydata.org/tutorial/introduction.html)
 ### Pandas
-    TBD
+- [pandas](https://pandas.pydata.org/docs/user_guide/10min.html)
 
 
 ## Opgaver 
