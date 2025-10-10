@@ -27,20 +27,27 @@ I forløbet introduceres og anvendes følgende:
 - [numpy_basic.ipynb](numpy_basic.ipynb)
 - [computation_on_array_1.ipynb](computation_on_array_1.ipynb) 
 - [computation_on_array_2.ipynb](computation_on_array_2.ipynb)
-
+- (Supplerende læsestof) [Array programming with NumPy](https://www.nature.com/articles/s41586-020-2649-2)
 ### Matplotlib
 - [Matplitlib tutorials](https://matplotlib.org/stable/users/explain/quick_start.html#quick-start)
 - [pyplot](https://matplotlib.org/stable/tutorials/pyplot.html)
 - [seaborn](https://seaborn.pydata.org/tutorial/introduction.html)
 ### Pandas
 - [pandas](https://pandas.pydata.org/docs/user_guide/10min.html)
+- [Maternal mortality example](https://maternalmortalityexample.netlify.app/maternal_mortality.html)
+- [data cleaning](https://realpython.com/python-data-cleaning-numpy-pandas/)
 
+### Data kilder
+- [Our World in Data](https://ourworldindata.org/)
+- [World Population Prospects 2024](https://population.un.org/wpp/downloads?folder=Standard%20Projections&group=Most%20used)
 
 ## Opgaver 
 
-1. Radioaktivt henfald
-2. DMIapp
-3. Moore's law
+1. [Radioaktivt_henfald](https://classroom.github.com/a/fSm2uYTX)
+2. [Moore's law](https://classroom.github.com/a/KVn_W6QB)
+3. [Covid-19 data](https://classroom.github.com/a/v_typcv7)
+4. [DMI data](https://classroom.github.com/a/O2WYWUSV)
+
 
 ## Krav til projekterne
 
