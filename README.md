@@ -14,11 +14,32 @@ Forløbet understøtter både programmeringsfagets formål og kompetencemål, og
 
 I forløbet introduceres og anvendes følgende:
 
-- `NumPy`: arrays, vektoriserede beregninger, statistiske funktioner.
-- `Matplotlib`: grafer, scatterplots, histogrammer, labels og figuropsætning.
+### Numpy og matplotlib
+- Introduktion
+    - `NumPy`: arrays, vektoriserede beregninger, statistiske funktioner.
+    - `Matplotlib`: grafer, scatterplots, histogrammer, labels og figuropsætning.
+
+- Øvelser
+    - *computation_on_array_1.ipynb*
+    - *computation_on_array_2.ipynb*
+
+### Numpy, Scipy og Seaborn 
+
 - `seaborn` 
-- `pandas`: DataFrames, import/eksport af data (CSV), filtrering, gruppering, beskrivende statistik.
 - `SciPy`: (valgfrit/ekstra): fx regression, sandsynlighedsfordelinger.
+
+### Databehandling med pandas
+`pandas` er den bibliotek vi skal bruge gennem forløbet. `pandas` er et af de mest anvendte Python-biblioteker til databehandling og analyse. Vi kigger på:
+
+- De to vigtigste datastrukturrer i `pandas`:
+    - `Series`
+    - `DataFrame`
+- Indlæse og håndtere datasæt fra fx .csv, Excel, databaser eller API’er
+- Filtrere, sortere og gruppere data efter betingelser
+- Beregne statistiske mål, fx gennemsnit, median eller varians
+- Visualisere resultater med fx Matplotlib eller Plotly
+- Rense og transformere data, fx håndtere manglende værdier eller ændre datatyper
+    - `re`(regular expression)
 
 
 ## Materialer
@@ -34,9 +55,9 @@ I forløbet introduceres og anvendes følgende:
 - [seaborn](https://seaborn.pydata.org/tutorial/introduction.html)
 ### Pandas
 - [pandas](https://pandas.pydata.org/docs/user_guide/10min.html)
-- [Maternal mortality example](https://maternalmortalityexample.netlify.app/maternal_mortality.html)
-- [data cleaning](https://realpython.com/python-data-cleaning-numpy-pandas/)
-
+- data cleaning
+    - [Pythonic data cleaning](https://realpython.com/python-data-cleaning-numpy-pandas/)
+    - [Maternal mortality example](https://maternalmortalityexample.netlify.app/maternal_mortality.html)
 ### Data kilder
 - [Our World in Data](https://ourworldindata.org/)
 - [World Population Prospects 2024](https://population.un.org/wpp/downloads?folder=Standard%20Projections&group=Most%20used)
@@ -49,12 +70,12 @@ I forløbet introduceres og anvendes følgende:
 4. [DMI data](https://classroom.github.com/a/O2WYWUSV)
 
 
+
 ## Krav til projekterne
 
 - Alle matematiske operationer skal udføres med NumPy- eller pandas-funktioner – ikke med manuelle for/while-loops.
 - Resultaterne skal visualiseres med Matplotlib.
 - Til opgave 2 skal der afleveres en rapport og Projektrapporten/koden skal indeholde:
-
     - en kort problemformulering,
     - databehandling (import, oprensning, analyse),
     - præsentation af resultater (tabeller/grafer),
