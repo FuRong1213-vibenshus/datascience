@@ -60,7 +60,13 @@ I forløbet introduceres og anvendes følgende:
     - [Maternal mortality example](https://maternalmortalityexample.netlify.app/maternal_mortality.html)
 ### Data kilder
 - [Our World in Data](https://ourworldindata.org/)
-- [World Population Prospects 2024](https://population.un.org/wpp/downloads?folder=Standard%20Projections&group=Most%20used)
+- WYrld Population Prospects 2024](https://population.un.org/wpp/downloads?folder=Standard%20Projections&group=Most%20used)
+
+
+### Yderligere
+- https://regex101.com/
+- https://docs.python.org/3/library/re.html#regular-expression-syntax
+
 
 ## Opgaver 
 
