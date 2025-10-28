@@ -54,6 +54,7 @@ I forløbet introduceres og anvendes følgende:
 - [pyplot](https://matplotlib.org/stable/tutorials/pyplot.html)
 - [seaborn](https://seaborn.pydata.org/tutorial/introduction.html)
 ### Pandas
+- [pandas getting started](https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html)
 - [pandas](https://pandas.pydata.org/docs/user_guide/10min.html)
 - data cleaning
     - [Pythonic data cleaning](https://realpython.com/python-data-cleaning-numpy-pandas/)
